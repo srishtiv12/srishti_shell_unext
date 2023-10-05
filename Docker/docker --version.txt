@@ -1,0 +1,23 @@
+docker --version
+
+docker info
+
+docker pull containerRegistry:username/repository:version
+
+ssh-keygen
+
+mv id_rsa.pub lock.pub && mv id_rsa key.pem
+
+#Connecting to remote desktop
+
+Username: ip172-18-0-19-ckahnhmfml8g00fkeang
+IP: direct.labs.play-with-docker.com
+
+
+
+
+
+ssh ip172-18-0-19-ckahnhmfml8g00fkeang@direct.labs.play-with-docker.com
+
+
+
